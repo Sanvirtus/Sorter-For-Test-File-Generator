@@ -1,4 +1,4 @@
-Example An example of a sorter for a file of the following format:
+An example of a sorter for a file of the following format:
 
 ```text
 1) 1. Mango is the king of fruits
