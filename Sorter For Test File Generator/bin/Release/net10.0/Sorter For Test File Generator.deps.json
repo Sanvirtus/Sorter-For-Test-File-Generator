@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Sorter For Test File Generator/1.0.0": {
+        "runtime": {
+          "Sorter For Test File Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorter For Test File Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
