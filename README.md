@@ -26,3 +26,8 @@ An example of a sorter for a file of the following format:
 23) 161101023. I haven't come up with a name or color for this fruit
 24) 734811146. Something something something dark side
 25) 77977688. Dragonfruit looks like an alien
+```
+
+Here's what it looks like:
+<img width="1115" height="248" alt="image" src="https://github.com/user-attachments/assets/52fb6a93-e245-40cd-8fbf-9048363ccaf5" />
+<img width="1115" height="286" alt="image" src="https://github.com/user-attachments/assets/70aa392d-e1a8-47c3-8ce0-9b2cc84ad5f4" />
